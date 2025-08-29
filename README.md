@@ -1,6 +1,7 @@
 # Olá eu sou o Felipe Miralles
 - 💼 Hoje estou estudando para ser um Desenvolvedor Web
-- 📚 Estudando Python completo - conhecimentos com HTML5 e CSS3 
+- 📚 Estudando Python completo - conhecimentos com HTML5 e CSS3, Atualmente estou cursando
+Análise de Desenvolvimento em Sistemas na (UNIC-SUL).
 - Contate-me  no email: fel.miralles@gmail.com
 
 <div style="display: inline_block"><br>
